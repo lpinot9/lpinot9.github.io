@@ -5,7 +5,7 @@
 ## Data Analysis
 
 **World Cup 2022 PLayer Ratings**
-<img src="images/circle_chart.png/>
+<img src="images/circle_chart.png">
 [Key Highlights](conclusions.md)
 
 [Link to the full repo](https://github.com/lpinot9/world_cup_2022_ratings)
