@@ -2,28 +2,18 @@
 
 ---
 
-### Category Name 1 
+### Data Analysis
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[World Cup 2022 PLayer Ratings](https://github.com/lpinot9/world_cup_2022_ratings)
+<img src="images/j5imrrf3rwgbmcgo2nny.jpg?raw=true"/>
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### AI content generation
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Group final project for le Wagon Data Science Bootcamp - Zero-shot voice conversion](https://docs.google.com/presentation/d/1zvA8LZWQpG-srYzzJqQ6LoWALTCTeiQD-PrTMk3dAkY/edit#slide=id.g1336ead2df3_1_481)
+
 
 ---
 
