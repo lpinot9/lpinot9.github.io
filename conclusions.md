@@ -56,8 +56,8 @@ The second step was to arbitrary build an overall grade like in football video g
 
 **Comparison of top 10 players by positions**
 
-![Image]('images/bar_fw.png')
+![Image]("images/bar_fw.png")
 
 **Messi vs M'Bappé detailed comparison**
 
-![Image]('images/circle_chart.png')
+![Image]("images/circle_chart.png")
