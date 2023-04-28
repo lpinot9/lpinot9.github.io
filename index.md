@@ -17,7 +17,7 @@
 ## AI content generation
 
 **Group final project for le Wagon Data Science Bootcamp**
-- [Google Slides Presentation - Zero-shot voice conversion](https://docs.google.com/presentation/d/1zvA8LZWQpG-srYzzJqQ6LoWALTCTeiQD-PrTMk3dAkY/edit#slide=id.g1336ead2df3_1_481)
+[Google Slides Presentation - Zero-shot voice conversion](https://docs.google.com/presentation/d/1zvA8LZWQpG-srYzzJqQ6LoWALTCTeiQD-PrTMk3dAkY/edit#slide=id.g1336ead2df3_1_481)
 
 
 ---
