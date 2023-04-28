@@ -4,7 +4,7 @@
 
 ## Data Analysis
 
-**World Cup 2022 PLayer Ratings**
+**World Cup 2022 Players Ratings**
 <img src="images/circle_chart.png">
 [Key Highlights](conclusions.md)
 
