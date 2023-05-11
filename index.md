@@ -5,7 +5,7 @@
 ## Data Analysis
 
 **World Cup 2022 Players Ratings**
-<img src="images/circle_chart.png">
+<img src="images/port (online-video-cutter.com) (1).gif">
 [Key Highlights](conclusions.md)
 
 [Link to the full repo](https://github.com/lpinot9/world_cup_2022_ratings)
