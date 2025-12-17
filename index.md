@@ -17,6 +17,7 @@
 An end-to-end MLOps project I built during my bootcamp at Le Wagon that predicts taxi fares in New York City. This repository demonstrates a complete machine learning lifecycle, from data preprocessing and model training to containerized deployment using Docker and FastAPI.
 
 [Link to the front end](https://lpinot9.github.io/taxi-fare-interface)
+
 [Link to the back end repo](https://github.com/lpinot9/taxifare-backend)
 
 ---
