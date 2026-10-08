@@ -1,6 +1,24 @@
 # Portfolio
 
 ---
+## Analytics Engineering
+
+**Paris Bike Traffic ELT Pipeline & Dashboard**
+
+An automated, end-to-end ELT data pipeline monitoring Parisian bicycle traffic daily. 
+
+- **Extraction & Ingestion:** Automated daily fetch from the Paris Open Data API and zero-cost ingestion into Snowflake using Python and `dlt`.
+- **Data Modeling:** Modular SQL transformations, testing, and deduplication handled with `dbt`.
+- **Orchestration & CI/CD:** Fully scheduled and tested via GitHub Actions workflows.
+- **Visualization:** Interactive tracking and geospatial analysis of counting stations on Looker Studio.
+
+<img src="images/bike_counters_map.png" alt="Paris Bike Counting Stations Map">
+
+[Interactive Looker Studio Dashboard](https://datastudio.google.com/s/h3fAl80lR2A)
+
+[Link to the GitHub Repository](https://github.com/lpinot9)
+
+---
 
 ## Data Analysis
 
